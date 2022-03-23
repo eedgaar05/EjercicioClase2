@@ -2,7 +2,7 @@
 1.- Crea la siguiente estructura de carpetas:
 
 
-md APLI
+./md APLI
   Dentro de APLI
   md WORD
       Dentro de WORD

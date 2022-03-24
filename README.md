@@ -73,3 +73,48 @@ VARIOS
       ls C:\APLI\WORD
       
 # Ejercicio 2
+
+1.- Utilizando el editor de textos de MS-DOS, crea un archivo de texto denominado EJER.TXT,
+con el siguiente contenido, y almacénalo dentro de la carpeta TEXTOS (dentro de la estructura
+del ejercicio anterior):
+“La información dentro de los discos se almacena en forma de archivos. Un archivo
+o fichero es un conjunto de datos que MS-DOS almacena en un disco y cuyo
+control interno es realizado por el sistema operativo, aunque desde el punto de
+vista lógico el control es del usuario”
+
+
+
+2.- Copia el archivo EJER.TXT en AGENDA
+
+
+3.- Borra el archivo almacenado en la carpeta TEXTOS
+
+4.- Añade el siguiente párrafo al archivo EJER.TXT:
+“Cada archivo tiene un nombre y una extensión que los distingue del resto de archivos”
+
+
+5.- Copia el archivo EJER.TXT en la carpeta BASIC
+
+
+6.- Cambia el nombre del archivo almacenado en AGENDA por FICHERO.TXT
+
+
+7.- Mueve el archivo FICHERO.TXT a la carpeta BASIC
+
+
+8.- Abre el archivo EJER.TXT y borra la primera frase; almacena el nuevo archivo con el
+nombre NUEVO.TXT dentro de la carpeta BASIC
+
+Borrar Primera frase
+
+almacenar el nuevo archivo
+
+
+9.- Copia el archivo NUEVO.TXT en la carpeta NOTAS
+
+10.- ¿Cuántos archivos hay en la carpeta BASIC? ¿Y en NOTAS?
+Carpeta Basic:
+	
+
+Carpeta Notas:
+

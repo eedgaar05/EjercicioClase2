@@ -121,23 +121,37 @@ vista lógico el control es del usuario”
 nombre NUEVO.TXT dentro de la carpeta BASIC
 
 Borrar Primera frase
+![image](https://user-images.githubusercontent.com/91616284/159993859-e1d524c1-76c7-4a9d-b753-4c8e7203f8fd.png)
 
 almacenar el nuevo archivo
-
+![image](https://user-images.githubusercontent.com/91616284/159993904-8222633a-6792-410a-afc4-58c453962795.png)
 
 9.- Copia el archivo NUEVO.TXT en la carpeta NOTAS
 
+![image](https://user-images.githubusercontent.com/91616284/159993971-9d03ed13-0ac0-4258-bc59-86dd79e98134.png)
+
+
 10.- ¿Cuántos archivos hay en la carpeta BASIC? ¿Y en NOTAS?
 Carpeta Basic:
-	
+
+![image](https://user-images.githubusercontent.com/91616284/159994011-d81c1211-3f46-41fc-971e-6567828c4330.png)
+
 
 Carpeta Notas:
+![image](https://user-images.githubusercontent.com/91616284/159994079-e2711e63-2cbf-4b66-989a-71407ea2fa3a.png)
 
 
 # Ejercicio 3
 
 1.- Borra la carpeta ACCESS y en su lugar crea una nueva carpeta llamada ASTRO
+
+![image](https://user-images.githubusercontent.com/91616284/159994128-8cd20d2e-1bea-4e56-9def-81bde5238adc.png)
+
+
 2.- Crea la siguiente estructura de subcarpetas dentro de la carpeta ASTRO
+
+![image](https://user-images.githubusercontent.com/91616284/159994179-594c90fc-452d-4cc3-a509-d9394f9c0ff3.png)
+
 
 3.- Sitúate en la carpeta CIENCIA y desde allí muestra el listado de archivos y subcarpetas de la
 carpeta HISTORIA

@@ -81,25 +81,40 @@ del ejercicio anterior):
 o fichero es un conjunto de datos que MS-DOS almacena en un disco y cuyo
 control interno es realizado por el sistema operativo, aunque desde el punto de
 vista lógico el control es del usuario”
+![image](https://user-images.githubusercontent.com/91616284/159992034-553e4cd8-8979-4032-981b-48d90f3d61bc.png)
 
+![image](https://user-images.githubusercontent.com/91616284/159992103-487adcca-2e73-4b30-9e14-9a587716b3b4.png)
 
 
 2.- Copia el archivo EJER.TXT en AGENDA
 
+![image](https://user-images.githubusercontent.com/91616284/159992226-b5c70290-c03b-444a-a6d2-b01bd1d7e65d.png)
+
 
 3.- Borra el archivo almacenado en la carpeta TEXTOS
+
+![image](https://user-images.githubusercontent.com/91616284/159992265-f6493ed3-7a3e-40c8-ae84-616d468f96bf.png)
+
 
 4.- Añade el siguiente párrafo al archivo EJER.TXT:
 “Cada archivo tiene un nombre y una extensión que los distingue del resto de archivos”
 
+![image](https://user-images.githubusercontent.com/91616284/159992331-f919ca78-cfce-4535-a537-ef4d243986ad.png)
+
 
 5.- Copia el archivo EJER.TXT en la carpeta BASIC
+
+![image](https://user-images.githubusercontent.com/91616284/159992379-2899f337-63f6-4eec-a3da-96d6efb5a9df.png)
 
 
 6.- Cambia el nombre del archivo almacenado en AGENDA por FICHERO.TXT
 
+![image](https://user-images.githubusercontent.com/91616284/159992459-3f018068-63ca-425c-8c27-775e575e4a22.png)
+
 
 7.- Mueve el archivo FICHERO.TXT a la carpeta BASIC
+
+![image](https://user-images.githubusercontent.com/91616284/159992673-c2072acd-34df-4e28-ab52-e712fde8b30b.png)
 
 
 8.- Abre el archivo EJER.TXT y borra la primera frase; almacena el nuevo archivo con el
@@ -150,3 +165,41 @@ texto) y guárdalo dentro de la carpeta HISTORIA con el nombre TOTAL.TXT
 Galileo a través de un pequeño telescopio, cuya introducción en la
 observación astronómica constituye uno de los hitos de la astronomía.”
 10.- Cambia el nombre del archivo anterior por el de GALILEO.TXT
+
+# EJERCICIO 4
+
+1.- Crea en la carpeta raíz de la unidad A: una carpeta denominada TECINFO
+
+
+2.- Crea dentro de TECINFO el siguiente archivo de texto y llámalo HARD.TXT
+“El HARDWARE está constituido por los elementos físicos del ordenador.
+Consta esencialmente de componentes electrónicos que proporcionan el
+soporte necesario para la interpretación y ejecución de las operaciones
+elementales que realiza el ordenador”
+
+
+3.- Crea dentro de TECINFO el siguiente archivo de texto y llámalo SOFT.TXT
+“El SOFTWARE es el conjunto de elementos lógicos necesarios para que el
+ordenador realice las funciones que se le encomiendan. Está formado por
+los programas, es decir, por un conjunto ordenado de instrucciones,
+comprensibles por la máquina, que permiten desarrollar tareas concretas”
+
+4.- Mueve el contenido de TECINFO a la carpeta APLI del disquete A utilizado para realizar los
+ejercicios anteriores
+
+5.- Crea un nuevo archivo formado por la unión de HARD.TXT y SOFT.TXT, sin volver a escribir
+el texto, y guárdalo en la carpeta AGENDA con el nombre ORDER.TXT
+
+
+
+6.- Elimina la carpeta TECINFO
+
+7.- Copia a la vez los archivos HARD.TXT y SOFT.TXT en la carpeta VARIOS
+
+8.- Cambia la extensión de los archivos contenidos en AGENDA por .TYP
+
+9.- Cambia la primera letra del nombre de todos los archivos del directorio APLI que empiecen
+por la letra C y tengan extensión DOC de forma que empiecen con la letra S
+
+10.- Copia los archivos contenidos en la carpeta APLI que tengan extensión DOC en la carpeta
+AGENDA

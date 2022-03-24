@@ -81,6 +81,8 @@ del ejercicio anterior):
 o fichero es un conjunto de datos que MS-DOS almacena en un disco y cuyo
 control interno es realizado por el sistema operativo, aunque desde el punto de
 vista lógico el control es del usuario”
+
+
 ![image](https://user-images.githubusercontent.com/91616284/159992034-553e4cd8-8979-4032-981b-48d90f3d61bc.png)
 
 ![image](https://user-images.githubusercontent.com/91616284/159992103-487adcca-2e73-4b30-9e14-9a587716b3b4.png)
@@ -121,9 +123,11 @@ vista lógico el control es del usuario”
 nombre NUEVO.TXT dentro de la carpeta BASIC
 
 Borrar Primera frase
+
 ![image](https://user-images.githubusercontent.com/91616284/159993859-e1d524c1-76c7-4a9d-b753-4c8e7203f8fd.png)
 
 almacenar el nuevo archivo
+
 ![image](https://user-images.githubusercontent.com/91616284/159993904-8222633a-6792-410a-afc4-58c453962795.png)
 
 9.- Copia el archivo NUEVO.TXT en la carpeta NOTAS
@@ -134,10 +138,12 @@ almacenar el nuevo archivo
 10.- ¿Cuántos archivos hay en la carpeta BASIC? ¿Y en NOTAS?
 Carpeta Basic:
 
+
 ![image](https://user-images.githubusercontent.com/91616284/159994011-d81c1211-3f46-41fc-971e-6567828c4330.png)
 
 
 Carpeta Notas:
+
 ![image](https://user-images.githubusercontent.com/91616284/159994079-e2711e63-2cbf-4b66-989a-71407ea2fa3a.png)
 
 
@@ -156,33 +162,62 @@ Carpeta Notas:
 3.- Sitúate en la carpeta CIENCIA y desde allí muestra el listado de archivos y subcarpetas de la
 carpeta HISTORIA
 
+![image](https://user-images.githubusercontent.com/91616284/160013518-043a9036-320f-41e3-bd20-9f9c04b312d7.png)
+
+
 4.- Utilizando el editor de MS-DOS crea el siguiente archivo de texto y guárdalo con el nombre
 TYCHO.TXT dentro de la carpeta DATOS1
 “La importancia de Tycho Brahe (1546-1601) es debida a sus trabajos
 observacionales, que registraron posiciones notables del Sol, la Luna y los
 planetas”
+
+![image](https://user-images.githubusercontent.com/91616284/160013605-147e6c4f-b766-4430-883d-04d0a7569ef7.png)
+
+
 5.- Utilizando de nuevo el editor de textos de MS-DOS crea el siguiente archivo de texto, y
 guárdalo con el nombre KEPLER.TXT dentro de la carpeta DATOS2
 
 “ La información acumulada facilitó a Johannes Kepler (1571-1630) el
 descubrimiento de las leyes que gobiernan el movimiento de los planetas”
 
+![image](https://user-images.githubusercontent.com/91616284/160013650-68cec591-f246-42aa-a81f-7d404d6d1fa4.png)
+
+
 6.- Copia los archivos TYCHO.TXT y KEPLER.TXT en la carpeta CIENCIA
+
+![image](https://user-images.githubusercontent.com/91616284/160013707-3acc751a-b43a-455a-8c9f-b289432bd12b.png)
+
 
 7.- Cambia de lugar los archivos almacenados en DATOS1 y DATOS2 de forma que TYCHO.TXT
 quede guardado dentro DATOS2 y KEPLER.TXT en DATOS1
 
+![image](https://user-images.githubusercontent.com/91616284/160013971-0fab62ea-4913-49d8-839c-767730522b03.png)
+
+
 8.- Crea un nuevo archivo formado por la unión de los dos anteriores (sin volver a escribir el
 texto) y guárdalo dentro de la carpeta HISTORIA con el nombre TOTAL.TXT
+
+![image](https://user-images.githubusercontent.com/91616284/160014020-d71841f0-9b88-49f2-9827-2ba6c5f49041.png)
+
+
 9.- Abre el archivo KEPLER.TXT almacenado en la carpeta CIENCIA y añade el siguiente texto:
 “Kepler aplicó sus teorías a los satélites de Júpiter, descubiertos por
 Galileo a través de un pequeño telescopio, cuya introducción en la
 observación astronómica constituye uno de los hitos de la astronomía.”
+
+![image](https://user-images.githubusercontent.com/91616284/160014061-7d14017f-eacf-44f1-881d-33cb062970eb.png)
+
+
 10.- Cambia el nombre del archivo anterior por el de GALILEO.TXT
+
+![image](https://user-images.githubusercontent.com/91616284/160014103-c88b63bc-a330-4cb9-a064-252513934800.png)
+
 
 # EJERCICIO 4
 
 1.- Crea en la carpeta raíz de la unidad A: una carpeta denominada TECINFO
+
+![image](https://user-images.githubusercontent.com/91616284/160014151-b35b36de-f87b-4f81-9192-b42c900d771c.png)
 
 
 2.- Crea dentro de TECINFO el siguiente archivo de texto y llámalo HARD.TXT
@@ -191,6 +226,8 @@ Consta esencialmente de componentes electrónicos que proporcionan el
 soporte necesario para la interpretación y ejecución de las operaciones
 elementales que realiza el ordenador”
 
+![image](https://user-images.githubusercontent.com/91616284/160014190-85eb3ce8-2cda-4190-b2fe-ab998b1c3e74.png)
+
 
 3.- Crea dentro de TECINFO el siguiente archivo de texto y llámalo SOFT.TXT
 “El SOFTWARE es el conjunto de elementos lógicos necesarios para que el
@@ -198,22 +235,41 @@ ordenador realice las funciones que se le encomiendan. Está formado por
 los programas, es decir, por un conjunto ordenado de instrucciones,
 comprensibles por la máquina, que permiten desarrollar tareas concretas”
 
+![image](https://user-images.githubusercontent.com/91616284/160014278-68f52c79-bae2-4c7d-98fe-ad4afc17d465.png)
+
+
 4.- Mueve el contenido de TECINFO a la carpeta APLI del disquete A utilizado para realizar los
 ejercicios anteriores
+
+![image](https://user-images.githubusercontent.com/91616284/160014310-8c4d0156-dc70-4f75-a391-eb5ef7021571.png)
+
 
 5.- Crea un nuevo archivo formado por la unión de HARD.TXT y SOFT.TXT, sin volver a escribir
 el texto, y guárdalo en la carpeta AGENDA con el nombre ORDER.TXT
 
+![image](https://user-images.githubusercontent.com/91616284/160014347-30792e90-ee71-45c1-a914-e462e0e6b41f.png)
 
 
 6.- Elimina la carpeta TECINFO
 
+![image](https://user-images.githubusercontent.com/91616284/160014375-7ae46e0c-3d42-4960-b649-d072e6ae09ac.png)
+
+
 7.- Copia a la vez los archivos HARD.TXT y SOFT.TXT en la carpeta VARIOS
 
+Este punto no se puede realizar ya que en el anterior eliminamos la carpeta con dichos archivos
+
 8.- Cambia la extensión de los archivos contenidos en AGENDA por .TYP
+
+![image](https://user-images.githubusercontent.com/91616284/160016862-631384ec-5b8f-4dc9-96ce-ce67f754e18b.png)
+
 
 9.- Cambia la primera letra del nombre de todos los archivos del directorio APLI que empiecen
 por la letra C y tengan extensión DOC de forma que empiecen con la letra S
 
+Este punto no se puede realizar ya que en ningún momento anterior hemos creado ningún archivo con la extensión '.DOC' en lo cual si no existe no podemos hacer ninguna modificación
+
 10.- Copia los archivos contenidos en la carpeta APLI que tengan extensión DOC en la carpeta
 AGENDA
+
+Este punto no se puede realizar ya que en ningún momento anterior hemos creado ningún archivo con la extensión '.DOC' en lo cual si no existe no podemos hacer ninguna modificación.

@@ -72,4 +72,4 @@ VARIOS
       cd C:\APLI\WORD\PRACT\
       ls C:\APLI\WORD
       
-#Ejercicio 2
+# Ejercicio 2

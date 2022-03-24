@@ -118,3 +118,35 @@ Carpeta Basic:
 
 Carpeta Notas:
 
+
+# Ejercicio 3
+
+1.- Borra la carpeta ACCESS y en su lugar crea una nueva carpeta llamada ASTRO
+2.- Crea la siguiente estructura de subcarpetas dentro de la carpeta ASTRO
+
+3.- Sitúate en la carpeta CIENCIA y desde allí muestra el listado de archivos y subcarpetas de la
+carpeta HISTORIA
+
+4.- Utilizando el editor de MS-DOS crea el siguiente archivo de texto y guárdalo con el nombre
+TYCHO.TXT dentro de la carpeta DATOS1
+“La importancia de Tycho Brahe (1546-1601) es debida a sus trabajos
+observacionales, que registraron posiciones notables del Sol, la Luna y los
+planetas”
+5.- Utilizando de nuevo el editor de textos de MS-DOS crea el siguiente archivo de texto, y
+guárdalo con el nombre KEPLER.TXT dentro de la carpeta DATOS2
+
+“ La información acumulada facilitó a Johannes Kepler (1571-1630) el
+descubrimiento de las leyes que gobiernan el movimiento de los planetas”
+
+6.- Copia los archivos TYCHO.TXT y KEPLER.TXT en la carpeta CIENCIA
+
+7.- Cambia de lugar los archivos almacenados en DATOS1 y DATOS2 de forma que TYCHO.TXT
+quede guardado dentro DATOS2 y KEPLER.TXT en DATOS1
+
+8.- Crea un nuevo archivo formado por la unión de los dos anteriores (sin volver a escribir el
+texto) y guárdalo dentro de la carpeta HISTORIA con el nombre TOTAL.TXT
+9.- Abre el archivo KEPLER.TXT almacenado en la carpeta CIENCIA y añade el siguiente texto:
+“Kepler aplicó sus teorías a los satélites de Júpiter, descubiertos por
+Galileo a través de un pequeño telescopio, cuya introducción en la
+observación astronómica constituye uno de los hitos de la astronomía.”
+10.- Cambia el nombre del archivo anterior por el de GALILEO.TXT
